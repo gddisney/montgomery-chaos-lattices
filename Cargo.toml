@@ -1,5 +1,5 @@
 [package]
-name = "ladder-lattice"
+name = "montgomery-chaos-lattices"
 version = "0.1.0"
 edition = "2021"
 
