@@ -1,0 +1,15 @@
+[package]
+name = "ladder-lattice"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = { version = "0.4", features = ["rand"] }
+num-traits = "0.2"
+rand = "0.8"
+chacha20 = "0.8"
+sha3 = "0.10"
+hex = "0.4"
+num-primes = "0.3"
+primal = "0.3.3"
+hkdf = "0.12.0"
